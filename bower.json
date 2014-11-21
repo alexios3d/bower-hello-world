@@ -1,0 +1,23 @@
+{
+  "name": "bower-hello-world",
+  "version": "0.0.1",
+  "authors": [
+    "Alex Lambrinos <alex.lambrinos@gmail.com>"
+  ],
+  "description": "First private bower package",
+  "main": "./bower-hello-world.js",
+  "keywords": [
+    "bower",
+    "hello",
+    "world"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

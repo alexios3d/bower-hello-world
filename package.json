@@ -1,0 +1,21 @@
+{
+  "name": "bower-hello-world",
+  "version": "0.0.1",
+  "description": "First private bower package",
+  "main": "bower-hello-world.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://alambrinos@bitbucket.org/alambrinos/bower-hello-world.git"
+  },
+  "keywords": [
+    "bower",
+    "hello",
+    "world"
+  ],
+  "author": "Alex Lambrinos <alex.lambrinos@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
